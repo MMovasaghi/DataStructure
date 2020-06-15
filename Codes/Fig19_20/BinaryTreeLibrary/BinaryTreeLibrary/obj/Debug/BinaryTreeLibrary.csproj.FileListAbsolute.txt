@@ -1,0 +1,5 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\bin\Debug\BinaryTreeLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_20\BinaryTreeLibrary\BinaryTreeLibrary\obj\Debug\BinaryTreeLibrary.pdb

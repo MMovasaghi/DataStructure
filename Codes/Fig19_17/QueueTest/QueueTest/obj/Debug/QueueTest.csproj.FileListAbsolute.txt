@@ -1,0 +1,9 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\bin\Debug\QueueTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\bin\Debug\QueueTest.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\bin\Debug\LinkedListLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\bin\Debug\QueueInheritanceLibrary.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\bin\Debug\LinkedListLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\bin\Debug\QueueInheritanceLibrary.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\obj\Debug\QueueTest.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\obj\Debug\QueueTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_17\QueueTest\QueueTest\obj\Debug\QueueTest.pdb
