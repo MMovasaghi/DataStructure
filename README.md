@@ -2,6 +2,6 @@
 
 Shahed University - Spring 2019
 
-TextBook: Ditle Visual C#
+TextBook: Deitel Visual C#
 
 by: Mohammad Hosein Movasaghinia
